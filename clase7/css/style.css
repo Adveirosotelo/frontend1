@@ -1,0 +1,18 @@
+.batman {
+  text-align: center;
+}
+.titulo {
+  text-align: center;
+  font-size: 35px;
+  font-family: "Times New Roman";
+  color: #005677;
+  background-color: #c4c4c4;
+}
+.espacio {
+  height: 150px;
+}
+.subtitulo {
+  font-family: "Times New Roman";
+  color: #005677;
+  background-color: #c4c4c4;
+}
